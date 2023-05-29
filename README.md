@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Stef-Stefanov
 - 👀 I’m interested in working for you.
-- 🌱 I’m currently reading Unit Testing Principles, Practices and Patterns.
+- 🌱 I’m currently reading Unit Testing Principles, Practices and Patterns by Vladimir Khorikov.
 - 📫 How to reach me: sistefanov@abv.bg stiwst@gmail.com
