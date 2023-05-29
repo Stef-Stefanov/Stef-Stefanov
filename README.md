@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Stef-Stefanov
-- 👀 I’m interested in working for a enterprise level company.
-- 🌱 I’m currently learning Spring Boot
-- 💞️ I’m looking to collaborate on learing, I guess.
-- 📫 How to reach me sistefanov@abv.bg stiwst@gmail.com
+- 👀 I’m interested in working for you.
+- 🌱 I’m currently reading Unit Testing Principles, Practices and Patterns.
+- 📫 How to reach me: sistefanov@abv.bg stiwst@gmail.com
